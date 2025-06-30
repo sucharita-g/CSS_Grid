@@ -3,24 +3,11 @@
 A **responsive and modern business landing page** crafted using HTML and CSS. The layout uses **CSS Grid and Flexbox** to deliver a clean, professional design — perfect for showcasing services, pricing, and brand vision.
 
 ---
-
-## 🌐 Live Demo
-
-🚀 [View Live Website](https://your-live-link-here.com) <!-- Replace with your actual deployed URL -->
-
----
-
 ## 📸 Website Preview
-
-> Add your screenshot and GIF demo here
 
 ### 🖼️ Screenshot
 
-![Website Screenshot](img/screenshot.png) <!-- Add actual screenshot -->
-
-### 🎞️ GIF Preview
-
-![Website Demo](img/demo.gif) <!-- Optional: Use screen recording -->
+![Website Screenshot](Screenshot 2025-06-30 150343.png) 
 
 ---
 
